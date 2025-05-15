@@ -1,5 +1,4 @@
 # Task-3-SQL-For-Data-Analysis
-SQL For Data Analysis
 
 SQL Functions Used
 
